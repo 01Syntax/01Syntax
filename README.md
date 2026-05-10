@@ -17,9 +17,12 @@ Fullstack developer and .NET MAUI specialist. I build clean, productive desktop 
 
 ## Featured
 
-**[Sortify](https://lemon-pebble-0fd1c1810.1.azurestaticapps.net/)** — A .NET MAUI desktop utility for rule-based file organization. Ships with a preview engine that shows exactly where every file will land before anything moves on disk. Built for bulk processing, conflict resolution, auto-sort scheduling, and full audit logging.
+### Sortify
+A .NET MAUI desktop utility for rule-based file organization. Ships with a preview engine that shows exactly where every file will land before anything moves on disk. Built for bulk processing, conflict resolution, auto-sort scheduling, and full audit logging.
 
 `C#` &nbsp;·&nbsp; `.NET MAUI` &nbsp;·&nbsp; `Windows` &nbsp;·&nbsp; `MIT`
+
+[![Live Site](https://img.shields.io/badge/Live%20Site-Visit%20Sortify-3B82F6?style=for-the-badge&logo=azurestaticwebapps&logoColor=white)](https://lemon-pebble-0fd1c1810.1.azurestaticapps.net/)
 
 ---
 
