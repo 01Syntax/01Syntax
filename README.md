@@ -25,4 +25,4 @@ Fullstack developer and .NET MAUI specialist. I build clean, productive desktop 
 
 ## Contact
 
-[kwanele@whakatau.com](mailto:kwanelekhumalo067@gamil.com)
+[kwanelekhumalo067@gmail.com](mailto:kwanelekhumalo067@gmail.com)
