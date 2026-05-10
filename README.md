@@ -23,12 +23,6 @@ Fullstack developer and .NET MAUI specialist. I build clean, productive desktop 
 
 ---
 
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kwan-Coder&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
----
-
 ## Contact
 
 [kwanele@whakatau.com](mailto:kwanelekhumalo067@gamil.com)
