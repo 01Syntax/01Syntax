@@ -23,6 +23,7 @@ A .NET MAUI desktop utility for rule-based file organization. Ships with a previ
 `C#` &nbsp;·&nbsp; `.NET MAUI` &nbsp;·&nbsp; `Windows` &nbsp;·&nbsp; `MIT`
 
 [![Live Site](https://img.shields.io/badge/Live%20Site-Visit%20Sortify-3B82F6?style=for-the-badge&logo=azurestaticwebapps&logoColor=white)](https://lemon-pebble-0fd1c1810.1.azurestaticapps.net/)
+[![Download](https://img.shields.io/badge/Download-SortifySetup.exe-28a745?style=for-the-badge&logo=windows&logoColor=white)](downloads/Sortify/SortifySetup.exe)
 
 ---
 
