@@ -8,6 +8,13 @@
 
 <table>
   <tr>
+    <td valign="top" width="60%">
+
+### Hey there! I'm Kwanele
+
+A fullstack developer fueled by clean architecture and an unhealthy obsession with getting files where they belong. By day, I build .NET MAUI desktop apps and enterprise backends that actually ship. By night, I'm convincing myself my Azure Functions are not over-engineered for what they do. When I'm not coding, I'm writing automation tools so I never have to do anything manually again.
+
+  </td>
     <td align="center" width="40%">
 
 ```csharp
@@ -24,13 +31,6 @@ public class Developer
     }
 }
 ```
-
-  </td>
-    <td valign="top" width="60%">
-
-### Hey there! I'm Kwanele
-
-A fullstack developer fueled by clean architecture and an unhealthy obsession with getting files where they belong. By day, I build .NET MAUI desktop apps and enterprise backends that actually ship. By night, I'm convincing myself my Azure Functions are not over-engineered for what they do. When I'm not coding, I'm writing automation tools so I never have to do anything manually again.
 
   </td>
   </tr>
