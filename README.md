@@ -6,18 +6,20 @@
 
 ## Know About Me
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <div style="flex: 0 0 220px; text-align: center;">
-    <img src="https://via.placeholder.com/250x250?text=Brain+Image" width="220" alt="brain" />
-  </div>
-  <div style="flex: 1;">
+<table>
+  <tr>
+    <td align="center" width="40%">
+      <img src="https://via.placeholder.com/250x250?text=Brain+Image" width="220" alt="brain" />
+    </td>
+    <td valign="top" width="60%">
 
 ### Hey there! I'm Kwanele
 
 A fullstack developer fueled by clean architecture and an unhealthy obsession with getting files where they belong. By day, I build .NET MAUI desktop apps and enterprise backends that actually ship. By night, I'm convincing myself my Azure Functions are not over-engineered for what they do. When I'm not coding, I'm writing automation tools so I never have to do anything manually again.
 
-  </div>
-</div>
+  </td>
+  </tr>
+</table>
 
 ---
 
