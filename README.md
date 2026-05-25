@@ -16,7 +16,7 @@ A fullstack developer fueled by clean architecture and an unhealthy obsession wi
 
   </td>
     <td align="center" width="40%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding" />
+      <img src="https://via.placeholder.com/250x250?text=Brain+Image" width="220" alt="brain" />
     </td>
   </tr>
 </table>
@@ -25,9 +25,18 @@ A fullstack developer fueled by clean architecture and an unhealthy obsession wi
 
 ## Top Projects *(built to avoid manual labor)*
 
-| Project | Description |
-|---------|-------------|
-| [![Sortify](https://img.shields.io/badge/github-SORTIFY-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/01Syntax/Sortify) | Rule-based file organizer with a live preview engine — because moving files manually is beneath us. |
+<table>
+  <tr>
+    <td valign="top" width="60%">
+
+[![Sortify](https://img.shields.io/badge/github-SORTIFY-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/01Syntax/Sortify) &nbsp; Rule-based file organizer with a live preview engine — because moving files manually is beneath us.
+
+  </td>
+    <td align="center" width="40%">
+      <img src="https://via.placeholder.com/200x200?text=Fire+Image" width="180" alt="fire" />
+    </td>
+  </tr>
+</table>
 
 ---
 
