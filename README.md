@@ -29,7 +29,9 @@ A fullstack developer fueled by clean architecture and an unhealthy obsession wi
   <tr>
     <td valign="top" width="60%">
 
-[![Sortify](https://img.shields.io/badge/SORTIFY-1a1a1a?style=flat-square&logoColor=white)](https://lemon-pebble-0fd1c1810.1.azurestaticapps.net/) &nbsp; Rule-based file organizer with a live preview engine — because moving files manually is beneath us.
+[![Sortify](https://img.shields.io/badge/SORTIFY-1a1a1a?style=flat-square&logoColor=white)](https://lemon-pebble-0fd1c1810.1.azurestaticapps.net/)
+
+**Sortify** is an intelligent file organization system designed to eliminate manual file management. Using customizable rule-based automation, Sortify monitors your directories and automatically categorizes, moves, and organizes files based on your defined patterns. The live preview engine lets you see exactly how files will be organized before any changes are applied — giving you complete control with zero risk. Perfect for developers, content creators, and anyone tired of file management chaos.
 
   </td>
     <td align="center" width="40%">
