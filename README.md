@@ -1,8 +1,6 @@
 <div align="center">
 
-# Syntax
-
----
+## ✦ Syntax ✦
 
 </div>
 
