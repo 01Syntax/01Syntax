@@ -15,7 +15,11 @@
 
 ### Hey there! I'm Kwanele
 
-A fullstack developer fueled by clean architecture and an unhealthy obsession with getting files where they belong. By day, I build .NET MAUI desktop apps and enterprise backends that actually ship. By night, I'm convincing myself my Azure Functions are not over-engineered for what they do. When I'm not coding, I'm writing automation tools so I never have to do anything manually again.
+I'm a fullstack developer obsessed with clean architecture and building software that actually works. By day, I craft .NET MAUI desktop applications and enterprise-grade backends designed to scale. By night, I'm deep in Azure Functions and cloud infrastructure — constantly second-guessing whether my solutions are over-engineered (they probably are).
+
+My philosophy is simple: if it's manual, it's broken. I spend half my time writing code and the other half writing automation tools to eliminate the need for code. I believe in solving problems at their root, building systems that are maintainable, and creating tools that free developers from repetitive grunt work. 
+
+I'm passionate about software craftsmanship, clean code principles, and turning chaotic workflows into elegant automated systems. Whether it's organizing files, managing infrastructure, or building complex applications — I'm all in.
 
   </td>
   </tr>
