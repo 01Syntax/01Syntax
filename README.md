@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=180&text=01Syntax&fontSize=80&fontColor=ffffff&fontAlignY=55&desc=Kwanele%20Khumalo&descSize=22&descAlignY=78" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=180&text=01Syntax&fontSize=80&fontColor=ffffff&fontAlignY=55" width="100%" />
 </div>
 
 ---
