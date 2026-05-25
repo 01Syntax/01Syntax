@@ -16,23 +16,8 @@ A fullstack developer fueled by clean architecture and an unhealthy obsession wi
 
   </td>
     <td align="center" width="40%">
-
-```csharp
-public class Developer
-{
-    public string Name { get; set; }
-    
-    public void AutomateEverything()
-    {
-        while (ManualWork.Exists())
-        {
-            Write(new Tool());
-        }
-    }
-}
-```
-
-  </td>
+      <img src="https://miro.medium.com/1*YdthANnG156AJFncBkq6Xw.jpeg" width="220" alt="code" />
+    </td>
   </tr>
 </table>
 
