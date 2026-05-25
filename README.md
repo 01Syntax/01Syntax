@@ -4,8 +4,6 @@
 
 </div>
 
----
-
 ## Know About Me
 
 <table>
