@@ -33,7 +33,7 @@ A fullstack developer fueled by clean architecture and an unhealthy obsession wi
 
   </td>
     <td align="center" width="40%">
-      <img src="./assets/sortify.png" width="180" alt="sortify" />
+      <img src="https://raw.githubusercontent.com/01Syntax/01Syntax/main/assets/sortify.png" width="180" alt="sortify" />
     </td>
   </tr>
 </table>
