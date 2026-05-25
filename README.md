@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="./assets/background.jpg" width="100%" style="max-height: 300px; object-fit: cover;" />
-  <h1 style="margin: 10px 0; font-size: 32px;">Syntax</h1>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=180&text=Syntax&fontSize=80&fontColor=ffffff&fontAlignY=55" width="100%" />
 </div>
 
 ---
