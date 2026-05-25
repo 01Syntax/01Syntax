@@ -29,7 +29,7 @@ A fullstack developer fueled by clean architecture and an unhealthy obsession wi
   <tr>
     <td valign="top" width="60%">
 
-[![Sortify](https://img.shields.io/badge/github-SORTIFY-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://lemon-pebble-0fd1c1810.1.azurestaticapps.net/) &nbsp; Rule-based file organizer with a live preview engine — because moving files manually is beneath us.
+[![Sortify](https://img.shields.io/badge/SORTIFY-1a1a1a?style=flat-square&logoColor=white)](https://lemon-pebble-0fd1c1810.1.azurestaticapps.net/) &nbsp; Rule-based file organizer with a live preview engine — because moving files manually is beneath us.
 
   </td>
     <td align="center" width="40%">
