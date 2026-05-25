@@ -33,7 +33,7 @@ A fullstack developer fueled by clean architecture and an unhealthy obsession wi
 
   </td>
     <td align="center" width="40%">
-      <img src="./assets/sortify.png" width="180" alt="sortify" />
+      <img src="./assets/Ethos-Icon_0004_Layer-2.png" width="180" alt="fire" />
     </td>
   </tr>
 </table>
