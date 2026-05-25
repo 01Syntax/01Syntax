@@ -33,7 +33,7 @@ A fullstack developer fueled by clean architecture and an unhealthy obsession wi
 
   </td>
     <td align="center" width="40%">
-      <img src="https://via.placeholder.com/200x200?text=Fire+Image" width="180" alt="fire" />
+      <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbSCZmsZkCh6PWaeZe5J-q_codA9ERBZ_B_senORu8TW77CLNj" width="180" alt="fire" />
     </td>
   </tr>
 </table>
