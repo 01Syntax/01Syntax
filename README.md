@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=200&text=Syntax&fontSize=85&fontColor=ffffff&fontAlignY=50&fontWeight=bold&reversal=false" width="100%" />
+
+# Syntax
+
 </div>
 
 ---
