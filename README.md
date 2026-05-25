@@ -28,8 +28,6 @@ A fullstack developer fueled by clean architecture and an unhealthy obsession wi
 | Project | Description |
 |---------|-------------|
 | [![Sortify](https://img.shields.io/badge/github-SORTIFY-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/01Syntax/Sortify) | Rule-based file organizer with a live preview engine — because moving files manually is beneath us. |
-| [![01Syntax](https://img.shields.io/badge/github-GITHUB%20PROFILE-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/01Syntax) | Public profile with automation tools and documentation for streamlined workflows. |
-| [![Utilities](https://img.shields.io/badge/github-UTILITIES-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/01Syntax) | Collection of .NET utilities designed to eliminate repetitive tasks. |
 
 ---
 
