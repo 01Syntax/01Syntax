@@ -1,31 +1,75 @@
-# Kwanele Khumalo
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=180&text=01Syntax&fontSize=80&fontColor=ffffff&fontAlignY=55&desc=Kwanele%20Khumalo&descSize=22&descAlignY=78" width="100%" />
+</div>
 
-Fullstack developer and .NET MAUI specialist. I build clean, productive desktop and web applications — from file utilities to enterprise-grade tools.
+<br/>
+
+<div align="center">
+
+## Know About Me
+
+</div>
+
+<table>
+  <tr>
+    <td align="center" width="35%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding" />
+    </td>
+    <td valign="top" width="65%">
+
+### Hey there! I'm Kwanele
+
+A fullstack developer fueled by clean architecture and an unhealthy obsession with getting files where they belong. By day, I build .NET MAUI desktop apps and enterprise backends that actually ship. By night, I'm convincing myself my Azure Functions are not over-engineered for what they do. When I'm not coding, I'm writing automation tools so I never have to do anything manually again.
+
+  </td>
+  </tr>
+</table>
 
 ---
 
-## Stack
+<div align="center">
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD?style=flat-square&logo=azurefunctions&logoColor=white)
+## Top Projects *(built to avoid manual labor)*
+
+</div>
+
+<table>
+  <tr>
+    <td valign="top" width="65%">
+
+[![Sortify](https://img.shields.io/badge/github-SORTIFY-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/01Syntax/Sortify) &nbsp; Rule-based file organizer with a live preview engine — because moving files manually is beneath us.
+
+  </td>
+    <td align="center" width="35%">
+      <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="180" alt="fire" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Featured
+<div align="center">
 
-### Sortify
-A .NET MAUI desktop utility for rule-based file organization. Ships with a preview engine that shows exactly where every file will land before anything moves on disk. Built for bulk processing, conflict resolution, auto-sort scheduling, and full audit logging.
+## Connect
 
-`C#` &nbsp;·&nbsp; `.NET MAUI` &nbsp;·&nbsp; `Windows` &nbsp;·&nbsp; `MIT`
+[![GitHub](https://img.shields.io/badge/GITHUB-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/01Syntax)
+[![Gmail](https://img.shields.io/badge/GMAIL-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kwanelekhumalo067@gmail.com)
+[![Sortify](https://img.shields.io/badge/SORTIFY-1a1a1a?style=for-the-badge&logo=azurestaticwebapps&logoColor=white)](https://lemon-pebble-0fd1c1810.1.azurestaticapps.net/)
 
-[![Live Site](https://img.shields.io/badge/Live%20Site-Visit%20Sortify-3B82F6?style=for-the-badge&logo=azurestaticwebapps&logoColor=white)](https://lemon-pebble-0fd1c1810.1.azurestaticapps.net/)
+</div>
 
 ---
 
-## Contact
+> *Code is never finished. It only becomes slightly less terrible over time.*
 
-[kwanelekhumalo067@gmail.com](mailto:kwanelekhumalo067@gmail.com)
+*Every commit I make is essentially a small, desperate apology to my future self. Someday I will return to this codebase, look at the spaghetti I've written, and wonder who let me anywhere near a keyboard.*
+
+---
+
+<div align="center">
+
+## Contribution
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=01Syntax&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area_color=1a1a1a&area=true&hide_border=true" width="100%" />
+
+</div>
